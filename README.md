@@ -3,17 +3,15 @@ Compression App (Windows Forms)
 This project is a Windows Forms application that allows users to compress and decompress strings of repeating characters. The compression format is a simple form where the number of repeated characters is represented by a number followed by the character itself (e.g., 4a for aaaa). The decompression restores the original string.
 
 Features
-
-	•	Compress: Reduces repeating characters into a shorter format.
-	•	Decompress: Restores compressed strings to their original format.
+	â€¢	Compress: Reduces repeating characters into a shorter format.
+	â€¢	Decompress: Restores compressed strings to their original format.
 
 Prerequisites
 
 Before you begin, make sure you have the following installed:
-
-	•	.NET SDK 8+ – Download here.
-	•	Visual Studio Code – Download here.
-	•	C# Extension for VS Code – Install from Extensions (Ctrl+Shift+X in VS Code).
+	â€¢	.NET SDK 8+ â€“ Download here.
+	â€¢	Visual Studio Code â€“ Download here.
+	â€¢	C# Extension for VS Code â€“ Install from Extensions (Ctrl+Shift+X in VS Code).
 
 Getting Started
 
@@ -22,7 +20,6 @@ Getting Started
 Clone this repository to your local machine.
 
 git clone https://github.com/puramsri/CompressionGUI
-
 cd CompressionGUI
 
 2. Open the Project in Visual Studio Code
@@ -49,14 +46,14 @@ How It Works
 Compression
 
 The compression method converts strings of repeating characters into a more compact form. For example:
-	•	Input: aaaa
-	•	Compressed: 4a
+	â€¢	Input: aaaa
+	â€¢	Compressed: 4a
 
 Decompression
 
 The decompression method restores the compressed format back to the original string. For example:
-	•	Input: 4a
-	•	Decompressed: aaaa
+	â€¢	Input: 4a
+	â€¢	Decompressed: aaaa
 
 Contributing
 
