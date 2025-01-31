@@ -19,7 +19,7 @@ Getting Started
 
 Clone this repository to your local machine.
 
-git clone <your-repository-url>
+git clone https://github.com/puramsri/CompressionGUI
 cd CompressionGUI
 
 2. Open the Project in Visual Studio Code
